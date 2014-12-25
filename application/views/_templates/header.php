@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Lang skills</title>
+    <title>WhatWorks</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- CSS -->
@@ -21,7 +21,7 @@
     -->
 
     <div class='title-box'>
-        <a href="<?php echo URL; ?>">Lang Skils</a>
+        <a href="<?php echo URL; ?>">WhatWorks</a>
     </div>
 
     <div class="header">
