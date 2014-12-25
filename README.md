@@ -24,9 +24,9 @@ List of attributions
 
 WhatWorks has been built built using the following open sources project
 
-* **The PHP Login script php-login.net
-* **Gregwar captcha http://gregwar.com/
-* **Facebook login SDK
+* The PHP Login script http://php-login.net
+* Gregwar captcha http://gregwar.com/
+* Facebook login SDK
 
 
 License
